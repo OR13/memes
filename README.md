@@ -1,1 +1,1 @@
-This Template is used to convert did:meme to did:web on github.
+[![DID Web](https://github.com/OR13/memes/actions/workflows/ci.yml/badge.svg)](https://github.com/OR13/memes/actions/workflows/ci.yml)
