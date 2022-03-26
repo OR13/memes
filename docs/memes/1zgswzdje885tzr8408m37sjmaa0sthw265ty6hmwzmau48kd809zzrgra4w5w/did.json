@@ -1,0 +1,44 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:or13.github.io:memes:1zgswzdje885tzr8408m37sjmaa0sthw265ty6hmwzmau48kd809zzrgra4w5w",
+  "verificationMethod": [
+    {
+      "id": "did:web:or13.github.io:memes:1zgswzdje885tzr8408m37sjmaa0sthw265ty6hmwzmau48kd809zzrgra4w5w#z6MktBviaC38NXJXT2q2gd3o27mQCraRvLHAopWBanTAQ3Ce",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:or13.github.io:memes:1zgswzdje885tzr8408m37sjmaa0sthw265ty6hmwzmau48kd809zzrgra4w5w",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "x": "zBYM-xzlPAJQQYUsuKGFBGSclHOJ200Bleg4YWZsChM"
+      }
+    },
+    {
+      "id": "did:web:or13.github.io:memes:1zgswzdje885tzr8408m37sjmaa0sthw265ty6hmwzmau48kd809zzrgra4w5w#z6LSga1HCHDDv8cbHfdRnPiqZqpZ71a5P7uudXkurFcRTzjt",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:or13.github.io:memes:1zgswzdje885tzr8408m37sjmaa0sthw265ty6hmwzmau48kd809zzrgra4w5w",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "X25519",
+        "x": "SLXF1t_x9_tBnsNSw4ezFNrgzQpdBz9u2PfMo8oZ8Ss"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:or13.github.io:memes:1zgswzdje885tzr8408m37sjmaa0sthw265ty6hmwzmau48kd809zzrgra4w5w#z6MktBviaC38NXJXT2q2gd3o27mQCraRvLHAopWBanTAQ3Ce"
+  ],
+  "authentication": [
+    "did:web:or13.github.io:memes:1zgswzdje885tzr8408m37sjmaa0sthw265ty6hmwzmau48kd809zzrgra4w5w#z6MktBviaC38NXJXT2q2gd3o27mQCraRvLHAopWBanTAQ3Ce"
+  ],
+  "capabilityInvocation": [
+    "did:web:or13.github.io:memes:1zgswzdje885tzr8408m37sjmaa0sthw265ty6hmwzmau48kd809zzrgra4w5w#z6MktBviaC38NXJXT2q2gd3o27mQCraRvLHAopWBanTAQ3Ce"
+  ],
+  "capabilityDelegation": [
+    "did:web:or13.github.io:memes:1zgswzdje885tzr8408m37sjmaa0sthw265ty6hmwzmau48kd809zzrgra4w5w#z6MktBviaC38NXJXT2q2gd3o27mQCraRvLHAopWBanTAQ3Ce"
+  ],
+  "keyAgreement": [
+    "did:web:or13.github.io:memes:1zgswzdje885tzr8408m37sjmaa0sthw265ty6hmwzmau48kd809zzrgra4w5w#z6LSga1HCHDDv8cbHfdRnPiqZqpZ71a5P7uudXkurFcRTzjt"
+  ]
+}
